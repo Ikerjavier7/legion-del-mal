@@ -7,7 +7,7 @@
 
 ---
 
-## Habilidades confirmadas
+## Habilidades confirmadas!!!!
 
 - Genio inventor y multimillonario (rival de Lex en ambos campos)
 - Armaduras con capacidad de vuelo, fuerza aumentada y arsenal integrado
@@ -16,7 +16,7 @@
 - Líder de los Vengadores con acceso a todos sus recursos
 - Sistemas de seguridad Stark protegen infraestructura global (bancos, gobiernos, SHIELD)
 
-## Debilidades conocidas
+## Debilidades conocidas!!!!
 
 | Debilidad                  | Detalle                                                              | ¿Explotable?                                               |
 | -------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -25,7 +25,7 @@
 | JARVIS                     | Si se neutraliza a JARVIS, Stark pierde vigilancia y soporte táctico | ✅ Brainiac puede atacar a JARVIS directamente             |
 | Improvisa demasiado        | A diferencia de Batman, Stark confía en resolver sobre la marcha     | ✅ Planes con múltiples capas lo abruman                   |
 
-## Relevancia para la Legión
+## Relevancia para la Legión!!!!
 
 Iron Man no es un combatiente prioritario como Superman o Batman, pero su **tecnología** es la mayor amenaza pasiva:
 
@@ -33,7 +33,7 @@ Iron Man no es un combatiente prioritario como Superman o Batman, pero su **tecn
 - JARVIS monitorea actividad satelital (Proyecto PSC-002)
 - La Torre Stark tiene sensores que detectaron a Mystique en su única infiltración
 
-## Encuentros anteriores con la Legión
+## Encuentros anteriores con la Legión!!!!
 
 | Fecha   | Misión                            | Resultado                                                                                   |
 | ------- | --------------------------------- | ------------------------------------------------------------------------------------------- |
