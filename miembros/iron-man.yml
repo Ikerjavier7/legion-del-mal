@@ -1,0 +1,17 @@
+nombre: Iron Man
+nombre_real: Tony Stark
+alias:
+	- Hombre de Hierro
+afiliacion:
+	- Los Vengadores
+ocupacion:
+	- Inventor
+	- Empresario
+habilidades:
+	- Intelecto científico e ingenieril
+	- Liderazgo y estrategia
+	- Combate con armadura tecnológica
+equipo:
+	- Armadura de Iron Man
+	- Reactor ARC
+primera_aparicion: "Tales of Suspense #39 (1963)"
